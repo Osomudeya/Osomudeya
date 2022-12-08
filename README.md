@@ -14,7 +14,7 @@
 
 2. AWS DevOps; 
 
-3. Continuous Integration (Ci); 
+3. Continuous Integration (CI); 
 
 4. Continuous Delivery and Continuous Deployment (CD); 
 
