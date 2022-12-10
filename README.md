@@ -1,4 +1,4 @@
-### Hi, I'm Zudonu, a DevOps Engineer 👋
+### Hi, I am Zudonu, a DevOps Engineer 👋
 
 #### - 🔭 I’m currently working on DevOps projects, using tools like Ansible, Jenkins, IAC with Terraform, and AWS
 #### - 🌱 I’m currently learning to use containerization technologies like Docker and Kubernetes
