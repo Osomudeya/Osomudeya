@@ -25,4 +25,4 @@
 7. Software as a Service (SAAS)
 
 
-## Ongoing Project Porfolio Pinned Below 👇👇
+## Ongoing Projects Porfolio Pinned Below 👇👇
