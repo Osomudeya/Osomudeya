@@ -4,7 +4,7 @@
 #### - 🌱 I’m currently learning to use containerization technologies like Docker and Kubernetes.
 #### - 👯 I’m looking to collaborate on exciting software projects using DevOps principles.
 #### - 💬 Ask me about DevOps and Cloud.
-#### 📫 How to reach me: talk2osomudeya@gmail.com
+#### 📫 How to reach me: talk2osomudeya4devops@outlook.com
 
 
 
