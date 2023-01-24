@@ -25,4 +25,6 @@
 7. Software as a Service (SAAS)
 
 
-## Ongoing Projects Porfolio Pinned Below 👇👇
+#### Ongoing Projects Porfolio Pinned Below 👇👇
+
+## https://medium.com/@osomudeyazudonu/list/aws-devops-projects-6803db3be30e
