@@ -10,21 +10,24 @@
 
 #### My Special Skills Are:
 
-1. Amazon Web Services (AWS); 
 
-2. AWS DevOps; 
+1. Amazon Web Services (AWS);
 
-3. Continuous Integration (CI); 
+3. AWS DevOps; 
 
-4. Continuous Delivery and Continuous Deployment (CD); 
+4. Continuous Integration (CI); 
 
-5. Infrastructure as Code (laC); Infrastructure as a Service (laaS); 
+5. Continuous Delivery and Continuous Deployment (CD); 
 
-6. Platform as a Service (PaaS); 
+6. Infrastructure as Code (laC); Infrastructure as a Service (laaS); 
 
-7. Software as a Service (SAAS)
+7. Platform as a Service (PaaS); 
+
+8. Software as a Service (SAAS)
+
+9. Azure DevOps
 
 
 #### Ongoing Projects Porfolio Pinned Below 👇👇
 
-## https://medium.com/@osomudeyazudonu/list/aws-devops-projects-6803db3be30e
+## https://medium.com/@osomudeyazudonu
