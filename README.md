@@ -4,6 +4,6 @@
 ## Azure DevOps Enthusaist
 
 
-#### Ongoing Projects Porfolio Pinned Below 👇👇
+#### Ongoing Projects Porfolio Link Below 👇👇
 
 ## https://medium.com/@osomudeyazudonu
