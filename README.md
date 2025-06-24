@@ -7,7 +7,7 @@ Proven ability to wear multiple hats while delivering consistent results. From K
 
 ## 🛠️ Core Expertise
 
-- **Kubernetes Mastery**  
+- **Kubernetes**  
   Deploying, scaling, and troubleshooting complex containerized environments
 
 - **Multi-Cloud Architecture**  
