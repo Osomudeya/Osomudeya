@@ -58,9 +58,7 @@ and help others understand the _"why"_ behind infrastructure decisions.
 - 📘 [Medium](https://medium.com/@osomudeyazudonu) — Technical articles & DevOps insights  
 - 💻 [GitHub](https://github.com/Osomudeya) — Projects, Infrastructure Code & Labs
 
----
 
-**Ready to discuss how solid infrastructure can accelerate your product goals?** 🚀
 
 
 
