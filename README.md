@@ -1,4 +1,4 @@
-# 🚀 DevOps Engineer — Building Infrastructure That Scales With Your Business, Not Against It
+# 🚀 DevOps Engineer, Building Infrastructure That Scales With Your Business, Not Against It
 
 ## 👋 What I Bring to the Table
 Proven ability to wear multiple hats while delivering consistent results. From Kubernetes orchestration to technical documentation, I help engineering teams move faster without sacrificing reliability.
