@@ -47,7 +47,7 @@ and help others understand the _"why"_ behind infrastructure decisions.
 
 ## Currently Seeking
 
-- **Remote mid-level DevOps opportunities globally**
+- **Remote mid-level - senior DevOps opportunities globally**
 - Especially interested in **SaaS**, **fintech**, and **infrastructure-heavy** products
 - Open to roles as **Platform Engineer**, **SRE**, or **DevOps Engineer**
 
